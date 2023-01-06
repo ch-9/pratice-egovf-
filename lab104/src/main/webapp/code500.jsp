@@ -24,7 +24,7 @@ function fncGoAfterErrorPage(){
 		<div class="boxType1" style="width: 500px;">
 			<div class="box">
 				<div class="error">
-					<p class="title">HTTP 500 Errors</p>
+					<p class="title">HTTP 500 Error</p>
 					<p class="cont mb20">HTTP 500 Internal Server error.<br /></p>
 					<span class="btn_style1 blue"><a href="javascript:fncGoAfterErrorPage();">이전 페이지</a></span>
 				</div>
